@@ -20,5 +20,7 @@ This repository contains solutions and projects related to CodinGame puzzles. ht
 
 - **Mad Pod Racing** - Optimization, Neural network, Multi-agent, Distances, Trigonometry.
 
+- **Crystal Rush** - Multi-agent, Resource management
+
 
 
