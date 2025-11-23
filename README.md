@@ -3,6 +3,7 @@
 This repository contains solutions and projects related to CodinGame puzzles. https://www.codingame.com
 
 ## Content
+
 ### Easy Puzzles
 
 - **Temperatures** - Arrays, Loops, Conditions.
@@ -22,5 +23,4 @@ This repository contains solutions and projects related to CodinGame puzzles. ht
 
 - **Crystal Rush** - Multi-agent, Resource management
 
-
-
+- **Spring Challange 2020** - Pathfinding, Multi-agent, Distances, 2D array
